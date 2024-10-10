@@ -20,7 +20,7 @@
       "description": "is a lifestyle brand dedicated to transforming living spaces into warm, inviting environments that truly feel like home. With a focus on cozy aesthetics, personalized decor, and practical comfort, we believe that every home should be a reflection of the people who live in it.",
       "path_or_url": "/",
       "image": "https://images.unsplash.com/photo-1594408065362-379a5b60910b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    },
+    }
   ],
   "categories": [
     {
@@ -54,6 +54,6 @@
       "path_or_url": "/",
       "background_color": "#FFF4D9",
       "image": "https://plus.unsplash.com/premium_photo-1661765778256-169bf5e561a6?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    },
-  ],
+    }
+  ]
 }
